@@ -45,3 +45,23 @@
                 body
                 }
             ```
+    - */template*
+        - requirements
+            ``` js
+            let method = 'GET'
+            ```
+    - */template/:id*
+        - requirements
+            ``` js
+            let method = 'GET'
+            ```
+    - */template/:id*
+        - requirements
+            ``` js
+            let method = 'PUT'
+            ```
+    - */template/:id*
+        - requirements
+            ``` js
+            let method = 'DELETE'
+            ```

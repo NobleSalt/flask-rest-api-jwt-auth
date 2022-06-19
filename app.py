@@ -1,5 +1,3 @@
-from template import routes
-from user import routes
 import datetime
 from functools import wraps
 from flask_jwt_extended import JWTManager

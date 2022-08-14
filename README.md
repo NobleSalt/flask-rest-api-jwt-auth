@@ -1,6 +1,10 @@
 # A REST-API using flask, jwt and mongodb
 
 # Api Endpoints
+## project link
+[project link](https://flask-rest-api-jwt-auth-mongo.herokuapp.com/)
+## base-route
+https://flask-rest-api-jwt-auth-mongo.herokuapp.com/
 ## auth
   - */auth/signup*
     - requirements
